@@ -1,2 +1,1 @@
-# smart-tourist-safety-system
-smart-tourist-safety-system
+# Smart Tourist Safety
